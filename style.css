@@ -23,6 +23,7 @@ main {
 .card {
   border-radius: 0.5rem;
   padding: 2.4rem;
+  box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.1), 0 6px 15px 0 rgba(0, 0, 0, 0.15);
 }
 .card1 {
   background: hsl(263, 55%, 52%) url(/images/bg-pattern-quotation.svg) no-repeat
